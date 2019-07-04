@@ -1,5 +1,5 @@
 import { Header } from './app/header';
-import './styles/scss/main.sass';
+import './styles/sass/main.sass';
 import webpackgif from './assets/images/webpack.gif';
 
 let header = new Header();
